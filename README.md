@@ -1,4 +1,4 @@
-## VoEnabler
+## Pixel 4 Expander
 
 ro.vendor.build.type=userdebug for NSG 
 NSG seopolicy by cstark
